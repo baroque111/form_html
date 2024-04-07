@@ -1,5 +1,5 @@
-# table_html
-Creating table using html and css style
+# form_html
+Created Form using html and css style
 <!DOCTYPE html>
 <html lang="en">
   <head>
